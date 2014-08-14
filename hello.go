@@ -9,3 +9,4 @@ func main() {
 	s3 := s2
 	fmt.Println(s1,s2,s3)
 }
+xx
